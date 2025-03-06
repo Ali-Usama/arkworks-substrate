@@ -1192,7 +1192,7 @@ dependencies = [
 [[package]]
 name = "sp-crypto-ec-utils"
 version = "0.14.0"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "ark-bls12-377",
  "ark-bls12-377-ext",
@@ -1212,7 +1212,7 @@ dependencies = [
 [[package]]
 name = "sp-debug-derive"
 version = "14.0.0"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1222,7 +1222,7 @@ dependencies = [
 [[package]]
 name = "sp-externalities"
 version = "0.29.0"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "environmental",
  "parity-scale-codec",
@@ -1232,7 +1232,7 @@ dependencies = [
 [[package]]
 name = "sp-runtime-interface"
 version = "28.0.0"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "bytes",
  "impl-trait-for-tuples",
@@ -1251,7 +1251,7 @@ dependencies = [
 [[package]]
 name = "sp-runtime-interface-proc-macro"
 version = "18.0.0"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "Inflector",
  "expander",
@@ -1264,12 +1264,12 @@ dependencies = [
 [[package]]
 name = "sp-std"
 version = "14.0.0"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 
 [[package]]
 name = "sp-storage"
 version = "21.0.0"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "impl-serde",
  "parity-scale-codec",
@@ -1281,7 +1281,7 @@ dependencies = [
 [[package]]
 name = "sp-tracing"
 version = "17.0.1"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "parity-scale-codec",
  "tracing",
@@ -1292,7 +1292,7 @@ dependencies = [
 [[package]]
 name = "sp-wasm-interface"
 version = "21.0.1"
-source = "git+https://github.com/ali-usama/polkadot-sdk?tag=polkadot-stable2409#87971b3e92721bdf10bf40b410eaae779d494ca0"
+source = "git+https://github.com/ali-usama/polkadot-sdk?branch=stable2409#d21a68e6b72f3fe25804898289510d152e75afc8"
 dependencies = [
  "anyhow",
  "impl-trait-for-tuples",
